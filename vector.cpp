@@ -11,9 +11,9 @@ int main(){
 	v.push_back(20);
 	v.push_back(5);
 	sort(v.begin(),v.end());
-	vector<int>::iterator itr = v.begin();
+	vector<int>::iterator itr;
 	cout<<v.size()<<endl;
-	for(;itr != v.end();itr++){
+	for(itr = v.begin();itr != v.end();itr++){
 			cout<<*itr<<endl;
 	}
 	v.clear();

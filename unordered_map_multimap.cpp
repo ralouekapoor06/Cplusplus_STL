@@ -20,7 +20,7 @@ int main(){
 	mp1.insert(make_pair(30,300));
 	mp1.insert(make_pair(20,200));
 	mp1.insert(make_pair(40,400));
-	mp1.insert(make_pair(20,200));
+	mp1.insert(make_pair(20,100));
 	for(auto it = mp1.begin();it!=mp1.end();it++){
 		cout<<it->first<<"->"<<it->second<<endl;
 	}

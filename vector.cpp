@@ -9,7 +9,7 @@ int main(){
 	vector<int> v;
 	v.push_back(10);
 	v.push_back(20);
-	v.push_back(5);
+	v.push_back(4);
 	sort(v.begin(),v.end());
 	vector<int>::iterator itr;
 	cout<<v.size()<<endl;

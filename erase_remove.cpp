@@ -5,7 +5,7 @@ int main(){
 	
 	//erase
 	vector<int> v;
-	v.push_back(10);
+	v.push_back(9);
 	v.push_back(20);
 	v.push_back(30);
 	//Erase is used to remove an element

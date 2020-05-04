@@ -3,7 +3,7 @@
 #include<algorithm>
 using namespace std;
 int main(){
-	int var = 8;
+	int var = 16;
 	int *ptr = &var;
 	cout<<ptr<<endl;
 	*ptr = 10;

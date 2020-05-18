@@ -3,7 +3,7 @@
 #include<algorithm>
 using namespace std;
 int main(){
-	// if we want to apply some operations on vector or anything similar, we use them
+	// if we would want to apply some operations on vector or anything similar, we use them
 	//map-transform
 	vector<int> v;
 	v.push_back(1);

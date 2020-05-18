@@ -21,7 +21,7 @@ int main(){
 	for(auto &ele:myset){
 		cout<<ele;
 	}
-	//we can do this in map also
+	//we can do this in map too
 	//We make the 3rd parameter change
 	//We can also make our own comparator
 	//can we use this for loop for others

@@ -4,7 +4,7 @@
 using namespace std;
 
 int main(){
-	stack<int,deque<int>> stk;// we can use vector also instead of deque
+	stack<int,deque<int>> stk;// we can also use vector also instead of deque
 	stk.push(100);
 	stk.push(200);
 	stk.push(300);
